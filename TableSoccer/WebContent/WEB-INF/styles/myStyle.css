@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body,html{
+    height: 100%;
+    width: 90%;
+}
+
+.MainTitle{
+	margin-top: 10px;
+    color: #279;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: left;
+}
+
+.CenterText{
+	style="text-align:center"
+}
